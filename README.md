@@ -1,4 +1,4 @@
-# USSR
+# Former soviet republics across eurasia
 
 A collection of 15 standalone React websites exploring the history and identity of the former Soviet republics. Each site is its own Vite project, focused on one republic.
 
